@@ -1,0 +1,32 @@
+#btn {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #ff00bf;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #e476c8;
+}
+#btn:hover {background-color: #ff0202}
+
+#btn:active {
+  background-color: #ff00b3;
+  box-shadow: 0 5px rgb(228, 5, 5);
+  transform: translateY(4px);
+}
+
+#author {
+    font-style: italic;
+}
+
+body {
+    text-align: center;
+    margin-top: 15%;
+    margin-
+}
+
